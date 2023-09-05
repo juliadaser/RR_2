@@ -14,3 +14,11 @@ h1 {
   border-radius: 50%;
   position: absolute;
 }
+
+.button {
+            background-color: #0074d9;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
