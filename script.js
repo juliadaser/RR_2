@@ -8,7 +8,7 @@ rgb(255, 255, 255) = white
 COLOR INSPIRATION FROM : https://aifont.process.studio/
 */
 //require('dotenv').config() 
-// import '/dotenv/config'
+import '/dotenv/config'
 
 colorSets = [
   ["rgb(234, 255, 0)", "rgb(0, 0, 0)"],
@@ -58,7 +58,7 @@ function createDot() {
 
 document.body.addEventListener("click", function () {
   console.log("clicked");
-  //translateText();
+  translateText();
   createDot();
   changeColor();
 });
