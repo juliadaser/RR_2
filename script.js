@@ -7,7 +7,7 @@ rgb(255, 255, 255) = white
 
 COLOR INSPIRATION FROM : https://aifont.process.studio/
 */
-require('dotenv').config() 
+//require('dotenv').config() 
 //import '/dotenv/config'
 
 colorSets = [
